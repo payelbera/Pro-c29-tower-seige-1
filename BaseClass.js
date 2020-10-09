@@ -17,7 +17,7 @@ class BaseClass{
         rotate(angle);
         
         rectMode(CENTER);
-        fill("gold");
+        fill("yellow");
         rect(0,0, this.width, this.height);
         pop();
       }
